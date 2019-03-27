@@ -8,3 +8,7 @@ Something new. Just test.
 In italiano:
 Questo è un testo privo di significato, scritto solo per riempire lo spazio vuoto di questo campo. Questa è una versione modificata. Ma non ha alcun senso. Ancora. Altre informazioni
 
+
+Po polsku:
+Jest to bezsensowny tekst napisany tylko w celu wypełnienia pustej przestrzeni tego pola. To jest zmodyfikowana wersja. Ale to nie ma sensu. Nadal. Inne informacje
+
